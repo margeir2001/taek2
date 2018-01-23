@@ -9,7 +9,7 @@
 
 ### 5. það sem þarf að hafa í huga þegar maður er að velja spennu gjafa er hversu mikið af watts tölvan þarf plús 20% við auka álag, verðið og rafmagns spörun
 
-### 6. 
+### 6. Identify the problem, Establish a Theory og Probable Cause,Test the Theory to Determine Cause, Establish a Plan of Action to Resolve the Problem and Implement the solution, Verify Full System Funcionality and, If Applicable, Implement Preventive Measures and Document Findings, Actions, and Outcomes
 
 ### 7. 
 
