@@ -25,14 +25,13 @@ verjast því þegar unnið er með tölvubúnað?
 
 ### Identify the problem, Establish a Theory og Probable Cause,Test the Theory to Determine Cause, Establish a Plan of Action to Resolve the Problem and Implement the solution, Verify Full System Funcionality and, If Applicable, Implement Preventive Measures and Document Findings, Actions, and Outcomes
 
-# 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
-Nefnið dæmi um báðar gerðir af spurningum.
+# 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.
 
-### Close ended spurningar er svarað bara með einu svari en open ended þá þarftu að svara með meira ein einu svari. Close ended: 
+### Close ended spurningar er svarað bara með einu svari en open ended þá þarftu að svara með meira ein einu svari. Close ended: Er hann dauður? Open ended: hvaða litir eru í regnboganum?
 
 # 8. Hvað eru jaðartæki?
 
-### 
+### Það eru tæki sem eru ekki nauðsýnleg fyrir tölvuna eins og: prentarar og usb lyklar
 
 # 9. Nefndu þrjú dæmi um inntakstæki.
 
