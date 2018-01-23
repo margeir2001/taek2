@@ -7,14 +7,14 @@
 
 ### 4. Skammstöfunin ESD þýðir Electrostatic discharge og það er hægt að verjast það með því að snerta ofn áður enn að maður fer að vinna í tölvum eða vera með einangrunar armband eða einangrunar mottu undir tölvunni
 
-### 5.
+### 5. það sem þarf að hafa í huga þegar maður er að velja spennu gjafa er hversu mikið af watts tölvan þarf plús 20% við auka álag, verðið og rafmagns spörun
 
-### 6.
+### 6. 
 
-### 7.
+### 7. 
 
-### 8.
+### 8. 
 
-### 9.
+### 9. 
 
-### 10.
+### 10. 
